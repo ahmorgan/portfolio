@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+@keyframes fadein {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
+.animation {
+    animation-name: fadein;
+    animation-duration: 1000ms;
+}
+
+.center {
+    margin: 100;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    padding: 30px;
+    margin-left: 10px;
+    transform: translateY(-50px);
+    word-wrap: break-word;
+    width: 700px;
+}
+
+.image {
+    margin-top: -40px;
+    padding: 20px;
+    margin-left: -50px;
+    float: right;
+    position: absolute;
+    border-radius: 80%;
+    width: 12%;
+    height: 12%;
+    height: auto;
+}
+
+.header {
+    
+}
+
+.subheader {
+    text-decoration: underline;
+}

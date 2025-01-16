@@ -1,0 +1,20 @@
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.headerItems {
+    margin-left: 1%;
+}
+
+.subtitle {
+    color: darkgrey;
+}
+
+.tabs {
+    margin-top: 20px;
+    margin-left: 375px;
+    transform: translateY(-100px);
+}

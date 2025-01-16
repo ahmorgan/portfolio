@@ -1,0 +1,33 @@
+.textHome {
+    float: left;
+}
+
+.javaLogo {
+    margin-top: 170px;
+    padding: 20px;
+    float: right;
+    position: absolute;
+    height: 15%;
+}
+
+.pythonLogo {
+    margin-left: 60px;
+    margin-top: 170px;
+    padding: 20px;
+    float: right;
+    position: absolute;
+    height: 15%;
+}
+
+.andrew {
+    margin-top: -40px;
+    padding: 20px;
+    margin-left: -30px;
+    float: right;
+    position: absolute;
+    border-radius: 80%;
+    max-width: 25%;
+    max-height: 25%;
+    height: auto;
+    width: auto;
+}
